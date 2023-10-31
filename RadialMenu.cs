@@ -9,7 +9,7 @@ using UnityEngine;
 
 namespace Oxide.Plugins
 {
-    [Info("RadialMenu", "MTriper", "1.2.4")]
+    [Info("RadialMenu", "qxzxf", "1.2.4")]
     [Description("A customizable quick access panel with all popular and frequently used server commands.")]
     class RadialMenu : RustPlugin
     {
